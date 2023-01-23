@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/firebase-practice.git/static/css/main.a749d3de.css",
-    "main.js": "/firebase-practice.git/static/js/main.d9524622.js",
-    "index.html": "/firebase-practice.git/index.html",
-    "main.a749d3de.css.map": "/firebase-practice.git/static/css/main.a749d3de.css.map",
-    "main.d9524622.js.map": "/firebase-practice.git/static/js/main.d9524622.js.map"
+    "main.css": "/firebase-practice/static/css/main.a749d3de.css",
+    "main.js": "/firebase-practice/static/js/main.008b89c3.js",
+    "index.html": "/firebase-practice/index.html",
+    "main.a749d3de.css.map": "/firebase-practice/static/css/main.a749d3de.css.map",
+    "main.008b89c3.js.map": "/firebase-practice/static/js/main.008b89c3.js.map"
   },
   "entrypoints": [
     "static/css/main.a749d3de.css",
-    "static/js/main.d9524622.js"
+    "static/js/main.008b89c3.js"
   ]
 }
